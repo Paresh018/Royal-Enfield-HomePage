@@ -1,0 +1,212 @@
+#cardsection{
+    display: flex;
+}
+
+#cardsection div{
+    width: 25%;
+    overflow: hidden;
+    height: 199px;
+}
+
+#cardsection div img{
+    width: 100%;
+}
+
+#cardsection div p{
+    color: white;
+    position: relative;
+    bottom: 87px;
+    font-weight: 700;
+    padding-left: 14px;   
+}
+
+#cardsection div img:hover{
+    transform: scale(1.2);
+    transition: 2s ease-in-out;
+}
+
+#headersection2 ul li{
+    display: inline;
+    margin-left: 15px;
+}
+
+#headersection2 h4{
+    display: inline;
+}
+
+#headersection2{
+    background-color: black;
+    color: white;
+    height:62px;
+}
+
+#headersection2 ul li:hover{
+    color: red;
+}
+
+#headersection2 ul{
+    padding-top: 12px;
+    padding-bottom: 16px;
+}
+
+
+#headersection3 ul li{
+    display: inline;
+    margin-left: 15px;
+}
+
+#headersection3 h4{
+    display: inline;
+}
+
+#headersection3{
+    background-color: black;
+    color: white;
+    height:62px;
+}
+
+#headersection3 ul li:hover{
+    color: red;
+}
+
+#headersection3 ul{
+    padding-top: 12px;
+    padding-bottom: 16px;
+}
+
+
+
+#headersection4 ul li{
+    display: inline;
+    margin-left: 15px;
+}
+
+#headersection4 h4{
+    display: inline;
+}
+
+#headersection4{
+    background-color: black;
+    color: white;
+    height:62px;
+}
+
+#headersection4 ul li:hover{
+    color: red;
+}
+
+#headersection4 ul{
+    padding-top: 12px;
+    padding-bottom: 16px;
+}
+
+
+#headersection5 ul li{
+    display: inline;
+    margin-left: 15px;
+}
+
+#headersection5 h4{
+    display: inline;
+}
+
+#headersection5{
+    background-color: black;
+    color: white;
+    height:62px;
+}
+
+#headersection5 ul li:hover{
+    color: red;
+}
+
+#headersection5 ul{
+    padding-top: 12px;
+    padding-bottom: 16px;
+}
+
+
+#headersection6 ul li{
+    display: inline;
+    margin-left: 15px;
+}
+
+#headersection6 h4{
+    display: inline;
+}
+
+#headersection6{
+    background-color: black;
+    color: white;
+    height:62px;
+}
+
+#headersection6 ul li:hover{
+    color: red;
+}
+
+#headersection6 ul{
+    padding-top: 12px;
+    padding-bottom: 16px;
+}
+
+#headersection7{
+    background-color: black;
+    color: white;
+    height:62px;
+    text-align: center;
+}
+
+#social{
+  margin-left: 70%;
+}
+#social h6{
+    display: inline-block;
+}
+#social ul li{
+    display: inline-block;
+}
+
+.fa.fa-facebook-official{
+    font-size: 30px;
+}
+
+.fa.fa-twitter{
+    font-size: 30px;
+}
+
+.fa.fa-youtube-play{
+    font-size: 30px;
+}
+
+.fa.fa-instagram{
+    font-size: 30px;
+}
+
+#footersection{
+    display: flex;
+    background-color: #e5e3e3 ;
+}
+
+#footersection h5{
+font-weight: 700;
+}
+
+#footersection ul li{
+    color: black;
+    list-style-type: none;
+}
+
+#footersection ul li:hover{
+    color: red;
+}
+
+#left{
+font-size: 10px;
+}
+
+#right{
+    font-size: 10px;
+}
+
+
