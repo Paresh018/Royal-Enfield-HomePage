@@ -11,7 +11,11 @@ This project involves user-friendly front-end for the Royal Enfield website. The
 **Font & Design:** Botstrap 4 , FontAwesome.
 
 
+## Demo
 
+To view demo open this link : 
+
+https://paresh018.github.io/Royal-Enfield-HomePage/RE.html
 
 
 ## Run Locally
@@ -27,5 +31,3 @@ Go to the project directory
 ```bash
 Run RE (Chrome HTML Document) on browser.
 ```
-
-
